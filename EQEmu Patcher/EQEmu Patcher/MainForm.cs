@@ -23,7 +23,7 @@ namespace EQEmu_Patcher
          * 
          ****/
         public static string serverName = "EQ Exile";
-        public static string filelistUrl = "http://eqexile.eastus.cloudapp.azure.com/patch/";
+        public static string filelistUrl = "http://eqexile.vonsid.guru/patch/";
         //http://eqexile.eastus.cloudapp.azure.com/patch/rof/
         public static bool defaultAutoPlay = false; //When a user runs this first time, what should Autoplay be set to?
         public static bool defaultAutoPatch = false; //When a user runs this first time, what should Autopatch be set to?
